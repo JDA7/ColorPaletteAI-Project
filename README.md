@@ -52,10 +52,12 @@ ColorPaletteAI-Project is a Python-based application that leverages the OpenAI A
 ## Screenshots
 
 ### Initial Interface
-![Initial Screen](Screenshot%202025-03-21%20at%208.59.51%E2%80%AFPM.png)
+![Screenshot 2025-03-21 at 8 59 51 PM](https://github.com/user-attachments/assets/9f2d88b9-743a-4719-9a45-08459e1db97a)
+
 
 ### Generated Color Palette Example
-![Generated Palette](Screenshot%202025-03-21%20at%209.00.06%E2%80%AFPM.png)
+![Screenshot 2025-03-21 at 9 00 06 PM](https://github.com/user-attachments/assets/becf8ce0-8ae3-4b9d-9a40-eb1efa00206b)
+
 
 ## Technologies Used
 - **Python** - Backend logic
